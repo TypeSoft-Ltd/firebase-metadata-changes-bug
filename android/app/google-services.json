@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406976813826",
+    "project_id": "test-metadata-changes",
+    "storage_bucket": "test-metadata-changes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406976813826:android:2c145979e98698285a401b",
+        "android_client_info": {
+          "package_name": "io.typesoft.firebase_metadata_changes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrzztp1H8V1Ik6bdVJL8Oq0NfKV375Wxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
